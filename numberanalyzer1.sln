@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberanalyzer1", "numberanalyzer1\numberanalyzer1.csproj", "{77CEC07A-C24F-442C-A1F0-3CA969D2607C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberanalyzer", "numberanalyzer\numberanalyzer.csproj", "{5CFCD046-BAAB-473B-88E2-A1B2B7492E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CEC07A-C24F-442C-A1F0-3CA969D2607C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CEC07A-C24F-442C-A1F0-3CA969D2607C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CEC07A-C24F-442C-A1F0-3CA969D2607C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CEC07A-C24F-442C-A1F0-3CA969D2607C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFCD046-BAAB-473B-88E2-A1B2B7492E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFCD046-BAAB-473B-88E2-A1B2B7492E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFCD046-BAAB-473B-88E2-A1B2B7492E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFCD046-BAAB-473B-88E2-A1B2B7492E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D03C6322-3A52-4374-B0AA-DC0793EDB424}
+	EndGlobalSection
+EndGlobal
